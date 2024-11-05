@@ -1,0 +1,124 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://snehaa15.github.io/DSAweb/
+Subject: Data Structure
+Date: Mon, 4 Nov 2024 23:46:28 -0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--fuq9niGrsjNTCFD3O5IpMRIXDp7XZlbF1xhQy3f3NO----"
+
+
+------MultipartBoundary--fuq9niGrsjNTCFD3O5IpMRIXDp7XZlbF1xhQy3f3NO----
+Content-Type: text/html
+Content-ID: <frame-2C07BD739F817DEC71DA272CE773638B@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://snehaa15.github.io/DSAweb/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-6d0265=
+69-8e6b-4952-91f0-2ba6f238f22f@mhtml.blink" />
+	<title>DATA STRUCTURES </title>
+=09
+</head>
+<body>
+	<header>
+		<nav>
+			<!-- <div class=3D"logo"><h1 class=3D"hlo">WEB-SQL</h1></div> -->
+			<div class=3D"menu">
+				<a href=3D"DSA Qu">1D-Arrays=
+</a>
+				<a href=3D"https://snehaa15.github.io/DSAweb/2d%20array.html">2D-arrays=
+</a>
+                <a href=3D"https://snehaa15.github.io/DSAweb/searching.html=
+">Searching</a>
+                <a href=3D"https://snehaa15.github.io/DSAweb/sorting.html">=
+Sorting</a>
+                <a href=3D"https://snehaa15.github.io/DSAweb/string.html">S=
+trings</a>
+                <a href=3D"https://snehaa15.github.io/DSAweb/stack.html">St=
+acks</a>
+				<a href=3D"https://snehaa15.github.io/DSAweb/linked%20list.html">Linked=
+List</a>
+                <a href=3D"https://snehaa15.github.io/DSAweb/queues.html">Q=
+ueues</a>
+                <a href=3D"https://snehaa15.github.io/DSAweb/trees.html">Tr=
+ees</a>
+                <a href=3D"https://snehaa15.github.io/DSAweb/#">Recursion</=
+a>
+               =20
+               =20
+			</div>
+			</nav>
+			<main>
+				<section>
+                    <h1>Data Structures</h1>
+					<!--=20
+					<a href=3D"pagefirst.html" class=3D"btnone">Sql queries</a>
+					<a href=3D"pl_sql.html" class=3D"btntwo">Pl Sql</a> -->
+				</section>
+	=09
+	</main></header>
+=09
+			=09
+	=09
+</body></html>
+------MultipartBoundary--fuq9niGrsjNTCFD3O5IpMRIXDp7XZlbF1xhQy3f3NO----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-6d026569-8e6b-4952-91f0-2ba6f238f22f@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+header { width: 100%; height: 100vh; background-image: linear-gradient(rgb(=
+233, 159, 220), rgba(233, 129, 215, 0.973)), url("background1.jpg"); backgr=
+ound-repeat: no-repeat; background-size: cover; }
+
+nav { width: 100%; height: 15vh; background: rgb(247, 246, 244); color: whi=
+te; display: flex; justify-content: space-between; align-items: center; }
+
+nav .logo { width: 25%; text-align: center; }
+
+nav .menu { width: 100%; word-spacing: 50px; padding: 150px; justify-conten=
+t: space-between; }
+
+nav .menu a { width: 35%; text-decoration: none; color: rgb(44, 4, 4); font=
+-weight: bold; }
+
+nav .menu a:first-child { color: rgb(1, 23, 19); }
+
+main { width: 100%; height: 85vh; display: flex; justify-content: center; a=
+lign-items: center; color: rgb(27, 1, 1); }
+
+section { }
+
+section h3 { font-size: 35px; font-weight: 200; letter-spacing: 3px; text-s=
+hadow: black 1px 1px 2px; }
+
+section h1 { margin: 30px 0px 20px; font-size: 55px; font-weight: 700; text=
+-shadow: black 2px 1px 5px; text-transform: uppercase; font-family: "Gill S=
+ans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; }
+
+section p { font-size: 25px; word-spacing: 2px; margin-bottom: 25px; text-s=
+hadow: black 1px 1px 1px; }
+
+section a { padding: 12px 30px; border-radius: 9px; outline: none; text-tra=
+nsform: uppercase; font-size: 15px; font-weight: 500; text-decoration: none=
+; letter-spacing: 1px; transition: 0.5s; font-family: "Gill Sans", "Gill Sa=
+ns MT", Calibri, "Trebuchet MS", sans-serif; }
+
+section .btnone { background: rgb(255, 255, 255); color: rgb(0, 0, 0); }
+
+.btnone:hover { background: rgb(0, 184, 148); color: white; }
+
+section .btntwo { background: rgb(0, 184, 148); color: white; }
+
+.btntwo:hover { background: rgb(255, 255, 255); color: rgb(0, 0, 0); }
+
+.menu { font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", =
+sans-serif; }
+
+.hlo { font-size: 35px; font-family: "Gill Sans", "Gill Sans MT", Calibri, =
+"Trebuchet MS", sans-serif; }
+------MultipartBoundary--fuq9niGrsjNTCFD3O5IpMRIXDp7XZlbF1xhQy3f3NO------
